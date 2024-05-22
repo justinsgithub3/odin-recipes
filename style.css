@@ -1,0 +1,35 @@
+body {
+    font-family: cursive, serif;
+}
+.recipe-header {
+    color: black;
+    font-weight: 700px;
+    font-size: 80px;
+}
+
+.recipe-list .content{
+    font-size: 50px;    
+    
+}
+
+.recipe-list {
+    font-size: 40px;
+}
+
+.recipe-list,
+.content {
+    color: black;
+}
+
+
+.dish-header{
+    color: #CC0000;
+    font-size: 80px;
+    font-weight: 700px;
+    background-color: green;
+}
+.dish-subheader {
+    color: black;
+    background-color: white;
+    font-weight: 650px;
+}
